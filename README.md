@@ -1,1 +1,1 @@
-# News_Sentinment_Analysis
+# News_Sentiment_Analysis
